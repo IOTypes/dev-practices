@@ -13,6 +13,9 @@
 Commit Frequently: Don't wait too long to commit your changes.
 Use Descriptive Commit Messages: Clearly convey the purpose of the change.
 
+## PR title Naming
+The title of the PR should be `<type>: <what is the ticket>`
+
 
 
 ## PR Should Get Reviewed
