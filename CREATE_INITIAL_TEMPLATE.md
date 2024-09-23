@@ -65,6 +65,6 @@ Now that the repository is set up as a template, you can use it to start new pro
 
 Note :-
 - The new repository will be created with the same structure and files as the template.
-- you can create and reuse this structure for future projects!
+- you can create and reuse this structure for future projects.
 
 
