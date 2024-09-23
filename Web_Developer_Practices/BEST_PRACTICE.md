@@ -53,4 +53,3 @@ Each page should have a clear purpose like:
 * Use coding techniques to make sure the website looks good on any screen size.
 * Test it on different devices phones, tablets, desktops to make sure it’s consistent and user-friendly.
 
-Note:
