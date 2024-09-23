@@ -1,4 +1,3 @@
 # Documentation
 
-* [Website Redesign: Best Practices](BEST_PRACTICE.md) 
-
+* [Website Redesign: Best Practices](EVENT_PLANET.md) 
