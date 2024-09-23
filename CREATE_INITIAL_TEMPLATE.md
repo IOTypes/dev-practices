@@ -1,6 +1,6 @@
 # ⁠How to create inital template in GitHub
 * This guide provides instructions on how to create an initial template for a GitHub repository.
-* A template allows you to start a new project with a predefined structure and common files, saving time and ensuring consistency across projects.
+* A template allows you to start a new project with a predefined structure and common files.
 
 ## Requirements
 Before creating an initial template in GitHub, make sure you have the following:
